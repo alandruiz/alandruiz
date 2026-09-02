@@ -1,14 +1,14 @@
 # 👋 Hola, soy Alan Ruiz
 
 🎓 Biólogo  
-📊 Data Analyst Jr. | Data Scientist Jr.  
+📊 Data Analyst | Data Scientist Jr.  
 🌎 Interesado en análisis de datos aplicados a salud, ambiente y sistemas complejos  
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy biólogo con experiencia en gestión ambiental y formación en ciencia de datos.  
+Soy biólogo con experiencia en gestión ambiental y formación en Análisis de Datos.  
 Me enfoco en transformar datos en información útil para la toma de decisiones.
 
 Actualmente estoy desarrollando proyectos de análisis de datos end-to-end, integrando:
