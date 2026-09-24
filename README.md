@@ -1,7 +1,7 @@
 # 👋 Hola, soy Alan Ruiz
 
 🎓 Biólogo  
-📊 Data Analyst | Data Scientist Jr.  
+📊 Data Analyst | Environmental Data Analyst  
 🌎 Interesado en análisis de datos aplicados a salud, ambiente y sistemas complejos  
 
 ---
