@@ -54,7 +54,7 @@ https://github.com/alandruiz/vigilancia-dengue-argentina
 
 ## 📫 Contacto
 
-- LinkedIn: (https://www.linkedin.com/in/alan-ruiz-440804371/)
+- LinkedIn: (https://www.linkedin.com/in/alandruiz/)
 
 <!--
 **alandruiz/alandruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
